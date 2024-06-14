@@ -5,7 +5,6 @@ VerifAI Implementation of invoking multiple large language models concurrently a
 
 
 ## Quick-Start
-## Quick-Start
 
 For further information look to [Running the Multi_LLM Application](#running-the-application) inside of [Usage](#usage)
 
